@@ -42,3 +42,6 @@ method to respond to each of these.
 
 Question 1
 What are some unintended issues that can occur with the chatbot?
+The chatbot can't recognize certain key words when they are the first word.
+It also recognizes them when they are inside other words.
+Not only that, but it also can't detect key words when they are capitalized differently than intended.
